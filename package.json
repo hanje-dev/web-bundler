@@ -1,0 +1,12 @@
+{
+  "name": "web-bundler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "abstract-syntax-tree": "^2.20.6",
+    "express": "^4.17.3",
+    "source-map": "^0.7.3",
+    "terser": "^5.12.1"
+  }
+}
